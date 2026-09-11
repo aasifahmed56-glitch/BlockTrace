@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+requests
+python-dotenv
+neo4j
+reportlab
+pytest
+httpx
